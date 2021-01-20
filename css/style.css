@@ -36,5 +36,10 @@ body {
   margin-top: 30px; }
   .cases img {
     max-width: 100px; }
+@media screen and (max-width: 992px) {
+  .cases img,
+  .telegram img,
+  .inst img {
+    max-width: 20px; }
 
 /*# sourceMappingURL=style.css.map */
